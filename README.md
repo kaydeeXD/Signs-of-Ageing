@@ -8,10 +8,9 @@ model preferred to work upon is EfficientNet which will detect signs of ageing l
 puffy eyes, wrinkles, dark spots on the image.
 
 # Instruction
-1. "SVM model for prediction" is the main ipynb file.
-2. In "DATASET" folder datasets for this project is available.
-3. Program can be run in any python IDE.
-4. Libraries used in this project are
+1. In "DATASET" folder datasets for this project is available.
+2. Program can be run in any python IDE.
+3. Libraries used in this project are
 - os
 - numpy
 - cv2
@@ -21,4 +20,4 @@ puffy eyes, wrinkles, dark spots on the image.
 - sklearn
 - tensorflow
 - keras
-5. Install all above libraries and DATASET folder.  
+4. Install all above libraries and DATASET folder.  
